@@ -1,7 +1,6 @@
 # 2016/2 Machine Learning
 
                          SESSION 1      SESSION 2   ||   STUDENT DEADLINES                  CALENDARIO ACADEMICO
-  ==================================================++============================================================
     W39   Sep26 - Sep30  1.MATH         PSETS       ||
     W40   Oct 3 - Oct 7  2.LINREG       PSETS       ||
     W41   Oct10 - Oct14  3.LOGREG       PSETS       ||   Oct16 PSETS 1 2 3
