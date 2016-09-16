@@ -17,6 +17,6 @@
     W02   Ene 9 - Ene13  7.KERNEL       PSETS       ||
     W03   Ene16 - Ene20  8.NEURAL       PSETS       ||
     W04   Ene23 - Ene24  9.ENSEMBL      PSETS       ||
-    W05   Ene30 - Feb 3  QUIZPREP       QUIZ        ||
+    W05   Ene30 - Feb 3  QUIZPREP       QUIZ        ||   Ene26 PSETS 7 8 9
     W06   Feb 6 - Feb10                             ||   Feb10 PROJECT FINAL
     W07   Feb13 - Feb17                             ||                                      Feb17 NOTA FINAL
