@@ -24,7 +24,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 
 ### Data analytics project
 
-Deberás de abordar un problema de analítica de datos, 1) elegir dataset, 2) definir tarea, 3) ejecutar. El resultado ha de ser un notebook ejecutable que contenga, preprocesado (latent semantics y/o transformaciones), varios algoritmos de clasificación o regresión, análisis de rendimiento y curvas de aprendizaje.
+Deberás de abordar un problema de analítica de datos, 1) elegir dataset, 2) definir tarea, 3) implementar la analítica de datos. El resultado ha de ser un notebook ejecutable que contenga, preprocesado (latent semantics y/o transformaciones), varios algoritmos de clasificación o regresión, análisis de rendimiento y curvas de aprendizaje.
 
 Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad del notebook
 
