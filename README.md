@@ -8,7 +8,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 
 40% Problemsets<br/>
 30% Quizes<br/>
-30% Online courses (MOOC)
+30% Data analytics project
 
 ### Contenidos
 
@@ -21,6 +21,12 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 7. Kernel methods
 8. Neural networks
 9. Ensemble methods
+
+### Data analytics project
+
+Deberás de abordar un problema de analítica de datos, 1) elegir dataset, 2) definir tarea, 3) ejecutar. El resultado es un notebook ejecutable. Ha de contener, preprocesado, varios algoritmos, curvas de aprendizaje
+
+Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad del notebook
 
 ### Programa y fechas
 
