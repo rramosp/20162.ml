@@ -1,5 +1,29 @@
 # 2016/2 Machine Learning
 
+## 2016 - Semestre II - Universidad Industrial de Santander
+
+_Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
+
+### Calificación
+
+40% Problemsets<br/>
+30% Quizes<br/>
+30% Online courses (MOOC)
+
+### Contenidos
+
+1. Mathematical optimization and symbolic computing
+2. Linear Regression
+3. Logistic Regression
+4. Regularization and non parametric estimation
+5. Performance evaluation
+6. Latent semantics
+7. Kernel methods
+8. Neural networks
+9. Ensemble methods
+
+### Programa y fechas
+
                          SESSION 1      SESSION 2   ||   STUDENT DEADLINES        CALENDARIO ACADEMICO
     W39   Sep26 - Sep30  INTRO          1.MATH      ||
     W40   Oct 3 - Oct 7  2.LINREG       PSETS       ||
