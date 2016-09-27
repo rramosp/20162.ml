@@ -35,9 +35,9 @@ Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad
                          SESSION 1      SESSION 2   ||   STUDENT DEADLINES        CALENDARIO ACADEMICO
     W39   Sep26 - Sep30  INTRO          1.MATH      ||
     W40   Oct 3 - Oct 7  2.LINREG       PSETS       ||
-    W41   Oct10 - Oct14  3.LOGREG       PSETS       ||   Oct16 PSETS 1 2 3
-    W42   Oct17 - Oct21  PROJECT        PROJECT     ||
-    W43   Oct24 - Oct28  PROJECT        PROJECT     ||   Oct28 PROJECT DATASET 
+    W41   Oct10 - Oct14  3.LOGREG       PSETS       ||   
+    W42   Oct17 - Oct21  PROJECT        PROJECT     ||   Oct21 PROJECT DATASET
+    W43   Oct24 - Oct28  PSETS          PSETS       ||   Oct28 PSETS 1 2 3 
     W44   Oct31 - Nov 4  QUIZPREP       QUIZ        ||                            Nov4  PRIMERA NOTA
     W45   Nov 7 - Nov11  4.REGNPE       PSETS       ||
     W46   Nov14 - Nov18  5.PERFEVAL     PSETS       ||
