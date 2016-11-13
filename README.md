@@ -19,7 +19,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 5. Regularization and performance evaluation
 6. Kernel methods
 7. Ensemble methods
-8. Feature learning
+8. Learning representations
 9. Deep learning
 
 ### Data analytics project
