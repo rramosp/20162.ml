@@ -15,12 +15,12 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 1. Mathematical optimization and symbolic computing
 2. Linear Regression
 3. Logistic Regression
-4. Regularization and non parametric estimation
-5. Performance evaluation
-6. Latent semantics
-7. Kernel methods
-8. Neural networks
-9. Ensemble methods
+4. Neural Networks
+5. Regularization and performance evaluation
+6. Kernel methods
+7. Ensemble methods
+8. Feature learning
+9. Deep learning
 
 ### Data analytics project
 
