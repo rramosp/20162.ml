@@ -49,6 +49,6 @@ Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad
     W02   Ene 9 - Ene13  7.KERNEL       PSETS       ||
     W03   Ene16 - Ene20  8.ENSEMBL      PSETS       ||
     W04   Ene23 - Ene24  9.CNN+RNN      PSETS       ||
-    W05   Ene30 - Feb 3  QUIZPREP       QUIZ        ||   Ene26 PSETS 7 8 9
+    W05   Ene30 - Feb 3  QUIZPREP       QUIZ        ||   Ene29 PSETS 7 8 9
     W06   Feb 6 - Feb10                             ||   Feb10 PROJECT FINAL
     W07   Feb13 - Feb17                             ||                            Feb17 NOTA FINAL
